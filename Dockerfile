@@ -1,4 +1,4 @@
 FROM swizzlr/swift
-ADD . /code/
+COPY . /code/
 WORKDIR /code
 CMD swift main.swift

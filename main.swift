@@ -1,3 +1,6 @@
-for i in 1...100000 {
-  print("Where are we? \(i)")
+for i in 1...10000 {
+  print("Can we count? \(i)")
 }
+
+print("(Yes)")
+
