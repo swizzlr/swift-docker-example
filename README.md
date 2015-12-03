@@ -1,2 +1,4 @@
-# swift-docker-example
-Discover if swift can count, using docker.
+#Usage
+
+`docker build -t swift-example .`   
+`docker run swift-example`
